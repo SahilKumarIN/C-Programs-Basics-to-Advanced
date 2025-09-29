@@ -1,7 +1,7 @@
 # 🎯 C Programs: From Basics to Advanced
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/198843308-4f07d8e1-5f77-4a50-b4f0-6c4f07e4f7b4.png" alt="Hacktoberfest Banner" width="80%"/>
+<p align="center" >
+  <img src="https://hacktoberfest.com/_next/static/media/logo-hacktoberfest-12--nav.0ac01b46.svg" alt="Hacktoberfest Banner" width="80%"/>
 </p>
 
 <p align="center">
