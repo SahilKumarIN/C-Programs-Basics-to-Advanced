@@ -4,9 +4,9 @@
 
 ## Contributors
 
-Sr. | Name | Linkedin Profile | Email 
+Sr. | Name | Email | Program Name 
 ---|---|---|---
-01 | Sahil Kumar | [in/krsahil](https://linkedin.com/in/krsahil) | [rudrasahil3@gmail.com](rudrasahil3@gmail.com)
+01 | Sahil Kumar | [rudrasahil3@gmail.com](rudrasahil3@gmail.com) | Initial Setup of the Repo
 
 ### Thank You for contributing...
 ### #Hacktoberfest every contribution matters.
