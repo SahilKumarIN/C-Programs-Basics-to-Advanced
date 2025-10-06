@@ -38,6 +38,7 @@
 This repository contains a structured collection of **C language programs**, ranging from beginner-level syntax to advanced data structures and algorithms.
 
 Whether you're:
+
 - just starting out with C 💻
 - preparing for interviews 🎯
 - or contributing for Hacktoberfest 🧡
